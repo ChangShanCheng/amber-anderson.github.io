@@ -9,6 +9,6 @@ import react from '@vitejs/plugin-react-swc'
 
 // vite.config.js 加上
 export default defineConfig({
-  base: '/',  // 重要！
+  base: '/amber-anderson.github.io/',  // 重要！
   plugins: [react()]
 })
